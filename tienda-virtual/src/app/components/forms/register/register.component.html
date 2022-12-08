@@ -1,0 +1,33 @@
+<div class="BG" #bg>
+    <div class="login-box">
+      <!-- <button class="btnClose" (click)="showHidden()">
+        <mat-icon>close</mat-icon> 
+      </button>-->
+      <h2>REGISTRO</h2>
+      <form >
+        <div class="user-box">
+          <input type="text" name="nombre" required  [(ngModel)]="user.nombre"/>
+          <label>Nombre</label>
+        </div>
+        <div class="user-box">
+          <input type="text" name="apellido" required  [(ngModel)]="user.apellido" />
+          <label>Apellido</label>
+        </div>
+        <div class="user-box">
+          <input type="email" name="email"  required  [(ngModel)]="user.email"/>
+          <label>Email</label>
+        </div>
+        <div class="user-box">
+            <input type="password" name="password"  required  [(ngModel)]="user.clave">
+            <label >Contraseña</label>
+        </div>
+        <button class="upload"   (click)="registrar()">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Registrarse
+        </button>
+      </form>
+    </div>
+  </div>

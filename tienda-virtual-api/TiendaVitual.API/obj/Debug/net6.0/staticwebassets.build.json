@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "MGFPWuvaW8T4j18mDzoAYzc66UEV2y12YYwN77oXf9c=",
+  "Source": "TiendaVitual.API",
+  "BasePath": "_content/TiendaVitual.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TiendaVitual.API\\wwwroot",
+      "Source": "TiendaVitual.API",
+      "ContentRoot": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\",
+      "BasePath": "_content/TiendaVitual.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\celular-xiaomi-12-pro-12gb-ram-256gb-azul.webp",
+      "SourceId": "TiendaVitual.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\",
+      "BasePath": "_content/TiendaVitual.API",
+      "RelativePath": "imagenes/celular-xiaomi-12-pro-12gb-ram-256gb-azul.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\celular-xiaomi-12-pro-12gb-ram-256gb-azul.webp"
+    },
+    {
+      "Identity": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\iphone12.jpg",
+      "SourceId": "TiendaVitual.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\",
+      "BasePath": "_content/TiendaVitual.API",
+      "RelativePath": "imagenes/iphone12.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\iphone12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\iphone-x.png",
+      "SourceId": "TiendaVitual.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\",
+      "BasePath": "_content/TiendaVitual.API",
+      "RelativePath": "imagenes/iphone-x.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\iphone-x.png"
+    },
+    {
+      "Identity": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\SamsungGalaxyS22Ultra.webp",
+      "SourceId": "TiendaVitual.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\",
+      "BasePath": "_content/TiendaVitual.API",
+      "RelativePath": "imagenes/SamsungGalaxyS22Ultra.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\SamsungGalaxyS22Ultra.webp"
+    }
+  ]
+}

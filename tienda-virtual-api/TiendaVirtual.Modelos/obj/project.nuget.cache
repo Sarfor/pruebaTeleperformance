@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hj0tUcGMKQ7IYLGCl/OTDfkc/fmgZJl9tlDFzej6sZwdKZ125rSOmzA5AMve1Ex6f7Agjr28d4NjyU9wCStJjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVirtual.Modelos\\TiendaVirtual.Modelos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\saraf\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+<div class="containerProduct">
+    <h1>Lista Productos</h1>
+     <app-producto *ngFor="let producto of productos"
+     [producto]="producto"
+     (productoAgregado)="agregarProductoAlCarro($event)">
+    </app-producto>
+   
+</div>
+    
+
+    

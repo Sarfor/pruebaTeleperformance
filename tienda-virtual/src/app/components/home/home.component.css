@@ -1,0 +1,84 @@
+.header {
+  padding: 10px ;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  border: #ffb629 solid 3px;
+  z-index: 1;
+  box-shadow: 0 5px 8px -9px rgba(0, 0, 0, 0.75);
+  max-height: 64px;
+  max-width: 100vw;
+}
+
+.header_left {
+  height: 100%;
+  /* width: max-content; */
+}
+
+.header__info {
+  display: flex;
+  align-items: flex-start;
+}
+
+.datos {
+  width: max-content;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: flex-start;
+  color: black;
+  margin-left: 10px;
+  text-transform: capitalize;
+}
+
+.datos .nom {
+  margin-bottom: 0;
+  font-size: 12px;
+}
+
+.datos hr {
+  margin: 4px 0;
+}
+
+.datos .rol {
+  font-size: 12px;
+}
+
+.header__middle {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 80px;
+
+}
+.header__middle .h__middle {
+  font-size: 40px;
+  color: #000;
+ 
+}
+.header__right {
+    display: flex;
+    align-items: center;
+}
+
+.header__right .icon {
+    color:#ffb629;
+    margin: 0px 20px;
+    cursor: pointer;
+}
+ .container{ 
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 10px;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  background-color: #fff;
+}
+

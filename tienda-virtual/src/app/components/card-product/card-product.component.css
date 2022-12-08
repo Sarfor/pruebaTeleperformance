@@ -1,0 +1,15 @@
+.card__container{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:nowrap;
+    justify-content:center;
+    align-items:unset;
+    align-content:center;
+    margin-left: 180px;
+  } 
+  .card{
+    border: #ffb629 solid 3px;
+    margin: 5px;
+    box-shadow: 4px 4px 6px 0px rgba(0, 0, 0, 1);
+    width: 40px;
+  }

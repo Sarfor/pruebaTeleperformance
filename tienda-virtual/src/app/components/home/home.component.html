@@ -1,0 +1,55 @@
+<div class="header">
+  <div class="header__left">
+    <div class="header__info">
+      <div class="dropdown text-end">
+        <a href="#"
+        class="d-block link-dark text-decoration-none dropdown-toggle"
+        id="dropdownUser1"
+        data-bs-toggle="dropdpwn"
+        aria-expanded="false">
+        <img src="../../../assets/img/logoLogin.png"
+          width="32"
+          height="32"
+          class="rounded-circle"
+          title="avatar">
+        </a>
+        <ul class="dropdown-menu text-small" aria-labelledby="dropdownUser1">
+          <li>
+            <a class="dropdown-item">Cambiar imagen</a>
+          </li>
+          <li>
+            <a class="dropdown-item">Cambiar contraseña</a>
+          </li>
+          <li>
+            <hr class="dropdown-divider" />
+          </li>
+          <li><a class="dropdown-item" href="#">Salir</a></li>
+        </ul>
+      </div>
+      <div class="datos">
+        <!-- {{usuarioService.user.nombre || "---" }}
+        {{usuarioService.user.apellido || "---" }} -->
+      </div>
+    </div>
+  </div>
+  <a class="header__middle">
+    <h2 class="h__middle">Tienda virtual</h2>
+  </a>
+  <div class="header__right">
+    <span class="icon"><i class="fa fa-sign-out fa-2x"></i></span>
+    <span class="icon"><i class="fa-solid fa-right-from-bracket fa-2x"></i></span>
+  </div>
+</div>
+  <div class="container">
+    <app-product-list 
+    [productos]="productList"
+    (productoAgregado)="agregarProductoAlCarro($event)">
+    </app-product-list>
+    <app-shopping-cart
+    [productos]="cartProductList"
+    (productoEliminado)="eliminarProducto($event)">
+    </app-shopping-cart> 
+  </div>
+  
+  
+  

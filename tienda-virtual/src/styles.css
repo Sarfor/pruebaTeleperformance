@@ -1,0 +1,103 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  background-image: url(https://previews.123rf.com/images/katrink03/katrink031703/katrink03170300036/75843828-conjunto-de-iconos-para-tienda-en-l%C3%ADnea-fondo-transparente-.jpg);
+}
+
+.user_card {
+  height: 400px;
+  width: 350px;
+  background: linear-gradient(
+    180deg,
+    #ffb629 0,
+    #ffa537 10%,
+    #ff9243 20%,
+    #ff7e4b 30%,
+    #ff6951 40%,
+    #f25353 50%,
+    #d93f53 60%,
+    #c22f54 70%,
+    #ad2355 80%,
+    #9b1b56 90%,
+    #8c1859 100%
+  );
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  box-shadow: gray 0.3em 0.3em 0.4em;
+  border-radius: 5px;
+}
+.brand_logo_container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  position: absolute;
+  height: 170px;
+  width: 170px;
+  top: -75px;
+  border-radius: 50%;
+  background: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.brand_logo_container img {
+  width: 180px;
+}
+
+.form_container {
+  margin-top: 100px;
+}
+.login_btn {
+  width: 80%;
+  border-radius: 20px;
+  margin-top: 20px;
+  background: #ffb629 !important;
+  color: white !important;
+  transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
+  box-shadow: 0 2px 25px rgb(255, 255, 255);
+}
+.login_btn:hover {
+    color: rgba(255, 255, 255, 1) !important;
+    box-shadow: 0 4px 16px rgb(255, 255, 255);
+    transition: all 0.2s ease;
+  }
+  .login_container {
+    padding: 0 2rem;
+  }
+  .input-group-text {
+    height: 40px;
+    background: #ffb629 !important;
+    color: white !important;
+    border: 0 !important;
+    border-radius: 0.25rem 0 0 0.25rem !important;
+  }
+  .input_user:hover {
+    box-shadow: 0 4px 16px rgb(255, 255, 255);
+    transition: all 0.2s ease;
+  }
+  .input_pass:hover {
+    box-shadow: 0 4px 16px rgb(255, 255, 255);
+    transition: all 0.2s ease;
+  }
+  .input_user:focus{
+    box-shadow: none !important;
+  outline: 0px !important;
+  }
+.input_pass:focus {
+  box-shadow: none !important;
+  outline: 0px !important;
+}

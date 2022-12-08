@@ -1,0 +1,12 @@
+
+<div class="card__container">
+<div class="card" style="width: 18rem;">
+    <img class="card-img-top" [src]="producto.imagenUrl" alt="imagen prodructo">
+    <div class="card-body">
+      <h5 class="card-title">{{producto.nombre}}</h5>
+      <p class="card-text">{{producto.descripcion}}</p>
+      <h3 class="card-title">{{producto.precio.toLocaleString('es-CO', {style: 'currency', currency: 'COP'})}}</h3>
+      <button href="#" class="btn btn-primary"(click)="agregarProductoAlCarro(producto)"><i class="fa fa-plus" aria-hidden="true"></i> Agregar</button>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,51 @@
+<div class="BG" #bg>
+    <div class="login-box">
+      <button class="btnClose">
+        <!-- <mat-icon>close</mat-icon> -->
+      </button>
+      <h2>Editar producto</h2>
+      <form>
+        <div class="user-box">
+          <input
+            type="hidden"
+            name="idProfucto"
+          />
+        </div>
+        <div class="user-box">
+          <input
+            type="text"
+            name="nombre"
+            required
+          />
+          <label>Nombre</label>
+        </div>
+        <div class="user-box">
+          <input
+            type="number"
+            name="stock"
+            required
+          />
+          <label>Stock</label>
+        </div>
+        <label>Imagen del producto (Solo archivos png,jpg y jpeg )</label>
+        <div class="user-box">
+          <input
+            type="file"
+            id="file"
+            class="form-control-file"
+            nombre="file"
+          />
+        </div>
+        <div class="container_logo imagen">
+          <img/>
+        </div>
+        <button class="upload">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Editar
+        </button>
+      </form>
+    </div>
+  </div>

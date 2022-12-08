@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\SamsungGalaxyS22Ultra.webp",
+      "PackagePath": "staticwebassets\\imagenes\\SamsungGalaxyS22Ultra.webp"
+    },
+    {
+      "Id": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\celular-xiaomi-12-pro-12gb-ram-256gb-azul.webp",
+      "PackagePath": "staticwebassets\\imagenes\\celular-xiaomi-12-pro-12gb-ram-256gb-azul.webp"
+    },
+    {
+      "Id": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\iphone-x.png",
+      "PackagePath": "staticwebassets\\imagenes\\iphone-x.png"
+    },
+    {
+      "Id": "C:\\Users\\saraf\\OneDrive\\Escritorio\\pruebaTeleperformance\\tienda-virtual-api\\TiendaVitual.API\\wwwroot\\imagenes\\iphone12.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\iphone12.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TiendaVitual.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TiendaVitual.API.props",
+      "PackagePath": "build\\TiendaVitual.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TiendaVitual.API.props",
+      "PackagePath": "buildMultiTargeting\\TiendaVitual.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TiendaVitual.API.props",
+      "PackagePath": "buildTransitive\\TiendaVitual.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

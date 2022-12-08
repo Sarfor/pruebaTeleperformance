@@ -1,0 +1,38 @@
+<<div class="BG" #bg>
+    <div class="login-box">
+      <!-- <button class="btnClose" (click)="showHidden()">
+        <mat-icon>close</mat-icon> 
+      </button>-->
+      <h2>Nuevo producto</h2>
+      <form [formGroup]="newProductForm"  (ngSubmit)="onSubmit(newProductForm.value)">
+        <div class="user-box">
+          <input type="text" name="nombre" required formControlName="Nombre"/>
+          <label>Nombre</label>
+        </div>
+        <div class="user-box">
+          <input type="number" name="stock" required formControlName="Stock" />
+          <label>Stock</label>
+        </div>
+        <div class="user-box">
+          <input type="number" name="precio"  required formControlName="Precio"/>
+          <label>Precio</label>
+        </div>
+        <div class="user-box">
+            <input type="text" name="descripcion"  required formControlName="Descripcion" />
+            <label>Descripción</label>
+          </div>
+          <div class="user-box">
+            <input type="file" formControlName="Imagen" (change)="onSelectFile($event)" >
+            <label>Imagen</label>
+          </div>
+        <button class="upload" type="submit">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Agregar
+        </button>
+      </form>
+    </div>
+  </div>
+

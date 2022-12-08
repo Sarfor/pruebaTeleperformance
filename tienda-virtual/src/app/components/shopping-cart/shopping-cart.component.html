@@ -1,0 +1,26 @@
+
+<div class="containerShopping">
+    <h1>Carrito de Compras ({{cantidadItems()}}) Total Valor ({{total()!.toLocaleString('es-CO', {style: 'currency', currency: 'COP'})}})</h1>
+    <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Cantidad</th>
+            <th scope="col">Precio</th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let producto of productos">
+            <td>{{producto.nombre}}</td>
+            <td>
+                <input type="number" [(ngModel)]="producto.cantidad" min="0" (ngModelChange)="modelChanged(producto)"/>
+            </td>
+            <td>{{calcularPrecio(producto)!.toLocaleString('es-CO', {style: 'currency', currency: 'COP'})}}</td>
+            <td>
+                <button (click)="eliminarProducto(producto)">Eliminar</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+</div>

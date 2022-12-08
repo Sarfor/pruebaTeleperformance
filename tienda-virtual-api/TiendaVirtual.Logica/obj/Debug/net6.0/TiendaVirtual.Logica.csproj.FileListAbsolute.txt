@@ -1,0 +1,17 @@
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\bin\Debug\net6.0\TiendaVirtual.Logica.deps.json
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\bin\Debug\net6.0\TiendaVirtual.Logica.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\bin\Debug\net6.0\TiendaVirtual.Logica.pdb
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\bin\Debug\net6.0\TiendaVirtual.Datos.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\bin\Debug\net6.0\TiendaVirtual.Modelos.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\bin\Debug\net6.0\TiendaVirtual.Datos.pdb
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\bin\Debug\net6.0\TiendaVirtual.Modelos.pdb
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.csproj.AssemblyReference.cache
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.AssemblyInfoInputs.cache
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.AssemblyInfo.cs
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.csproj.CoreCompileInputs.cache
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.csproj.CopyComplete
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\refint\TiendaVirtual.Logica.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\TiendaVirtual.Logica.pdb
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Logica\obj\Debug\net6.0\ref\TiendaVirtual.Logica.dll

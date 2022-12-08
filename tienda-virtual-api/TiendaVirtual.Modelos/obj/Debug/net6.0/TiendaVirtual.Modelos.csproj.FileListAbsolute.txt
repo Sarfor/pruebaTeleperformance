@@ -1,0 +1,12 @@
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\bin\Debug\net6.0\TiendaVirtual.Modelos.deps.json
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\bin\Debug\net6.0\TiendaVirtual.Modelos.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\bin\Debug\net6.0\TiendaVirtual.Modelos.pdb
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\TiendaVirtual.Modelos.csproj.AssemblyReference.cache
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\TiendaVirtual.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\TiendaVirtual.Modelos.AssemblyInfoInputs.cache
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\TiendaVirtual.Modelos.AssemblyInfo.cs
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\TiendaVirtual.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\TiendaVirtual.Modelos.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\refint\TiendaVirtual.Modelos.dll
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\TiendaVirtual.Modelos.pdb
+C:\Users\saraf\OneDrive\Escritorio\pruebaTeleperformance\tienda-virtual-api\TiendaVirtual.Modelos\obj\Debug\net6.0\ref\TiendaVirtual.Modelos.dll
